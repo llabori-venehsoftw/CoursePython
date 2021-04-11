@@ -1,0 +1,7 @@
+# Import information
+
+# Install dependence from fole requierements.txt
+#    conda install --yes --file requirements.txt
+
+# Agregate a new channel to search conda
+#    conda config --append channels new_channel

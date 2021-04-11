@@ -1,0 +1,5 @@
+networkx==2.5
+osmnx==1.0.1
+requests==2.25.1
+matplotlib==3.3.2
+Pillow==8.1.0
